@@ -8,7 +8,7 @@ function App() {
     <div>
       <h1>React Material UI</h1>
       <Box>
-        <Stack direction="row" spacing={6} justifyContent="space-between">
+        <Stack direction="row" spacing={2} justifyContent="space-between">
           <Sidebar />
           <Feed />
           <Rightbar />
