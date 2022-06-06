@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import { Box } from "@mui/material";
 
 const Sidebar = () => {
-  return (
-    <div>Sidebar</div>
-  )
-}
+  return <Box bgcolor="skyblue">Sidebar</Box>;
+};
 
-export default Sidebar
+export default Sidebar;
